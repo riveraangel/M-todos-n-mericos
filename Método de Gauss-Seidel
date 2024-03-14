@@ -1,1 +1,1 @@
-este método se utiliza para resolver sistemas de ecuaciones lineales de manera iterativa y eficiente. A diferencia del método de eliminación de Gauss, que resuelve todo el sistema en una sola etapa, el método de Gauss-Seidel opera de manera iterativa, actualizando las soluciones una a una hasta que convergen a una solución aceptable
+
